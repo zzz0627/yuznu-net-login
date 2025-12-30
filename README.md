@@ -309,4 +309,4 @@ if '1.1.1.3' in response.url or 'ac_portal' in response.url:
 
 
 
-**⭐ 如果这个项目对您有帮助，请给个 Star！**
+**⭐ 如果这个项目对您有帮助，欢迎 Star 和 Fork！**
